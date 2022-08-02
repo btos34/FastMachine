@@ -1,2 +1,4 @@
-# FastMachine
-Fastmachine: a horrible recreation of Sam Hogan's Cell Machine
+just me and fast machien
+
+Original Work From Sam Hogan's Cell Machine
+
