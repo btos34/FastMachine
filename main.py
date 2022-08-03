@@ -53,7 +53,7 @@ def drawGrid():
     for x in range(0, 700, blockSize):
         for y in range(0, 500, blockSize):
             rect = pygame.Rect(x, y, blockSize, blockSize)
-            pygame.draw.rect(screen, WHITE, rect, 1)
+            pygame.draw.rect(screen, BLACK, rect, 1)
  
 # Loop until the user clicks the close button.
 done = False
